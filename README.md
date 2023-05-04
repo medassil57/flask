@@ -239,9 +239,7 @@ pip install flask_bootstrap
 ### Installation
 
 1. Clone the repo in the server
-   ```console
-   git clone https://github.com/hamza-mahjoub/flask-kerberos-module.git.
-   ```
+   
 2. Login as root by running `su -`.
 
 3. set the **KRB5_KTNAME** variable that references the **keytab**:
